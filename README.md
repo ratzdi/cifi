@@ -1,2 +1,2 @@
 # cifi
-Corrupt Image File Identifier
+Corrupt image finder
